@@ -1,0 +1,1 @@
+export const clientId = '341711256386-urja7soe1m35qhm3fnaq2m14mtj1bj35.apps.googleusercontent.com';
